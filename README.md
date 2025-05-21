@@ -32,7 +32,7 @@
 
 - 💼 Portfolio: [your-portfolio-link](https://yourportfolio.com)
 - 💌 Email: tanyaratclub@gmail.com
-- 🐦 Twitter: [@kkkkhxx](https://twitter.com/kkkkhxx)
+- 🐦 Twitter: [@kakikakihxx](https://twitter.com/kakikakihxx)
 
 ---
 
