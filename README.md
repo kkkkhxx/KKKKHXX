@@ -32,7 +32,7 @@
 ### 📫 Let's Connect!
 
 - 💼 Portfolio: [your-portfolio-link](https://yourportfolio.com)
-- 💌 Email: your.email@example.com
+- 💌 Email: tanyaratclub@gmail.com
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
