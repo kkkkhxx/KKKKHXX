@@ -3,6 +3,8 @@
 <p align="center">
   A passionate Front-End Developer and Designer who loves building user-friendly interfaces and scalable web apps.
 </p>
+---
+
 ### 🛠️ Skills & Tools
 
 <p align="left">
@@ -15,7 +17,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Diagrams.net_Logo.svg" alt="draw.io" width="40" height="40"/>
 </p>
 
----
 <!--
 ### 📈 GitHub Stats
 
