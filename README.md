@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm HeangKung</h1>
 
 <p align="center">
   A passionate Front-End Developer and Designer who loves building user-friendly interfaces and scalable web apps.
