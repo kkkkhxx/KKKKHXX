@@ -18,14 +18,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Diagrams.net_Logo.svg" alt="draw.io" width="40" height="40"/>
 </p>
 
-<!--
 ### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
--->
+
 ---
 
 ### 📫 Let's Connect!
