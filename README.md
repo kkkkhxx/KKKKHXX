@@ -19,14 +19,14 @@
 </p>
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
-
+-->
 ---
 
 ### 📫 Let's Connect!
