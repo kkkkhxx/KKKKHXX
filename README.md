@@ -1,39 +1,35 @@
-<h1 align="center">Hi there! 👋 I'm HeangKung</h1>
 
-<p align="center">
-  A passionate Front-End Developer and Designer who loves building user-friendly interfaces and scalable web apps.
-</p>
+# 👋 Hello, I'm HeangKung
+
+🎨 A passionate Front-End Developer and Designer who loves crafting user-friendly interfaces and scalable web applications.
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Diagrams.net_Logo.svg" alt="draw.io" width="40" height="40"/>
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<!--
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
--->
 ---
 
-### 📫 Let's Connect!
+## 📊 Language Stats
 
-- 💼 Portfolio: [your-portfolio-link](https://yourportfolio.com)
-- 💌 Email: tanyaratclub@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkhxx&layout=pie&theme=default)
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: tanyaratclub@gmail.com
+- 🌐 Portfolio: [your-portfolio-link](https://yourportfolio.com)
 - 🐦 Twitter: [@kakikakihxx](https://twitter.com/kakikakihxx)
 
 ---
 
-*Thanks for visiting my profile! 😊*
+Thanks for visiting my profile! 😊
