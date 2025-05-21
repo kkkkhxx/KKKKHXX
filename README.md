@@ -3,6 +3,7 @@
 <p align="center">
   A passionate Front-End Developer and Designer who loves building user-friendly interfaces and scalable web apps.
 </p>
+
 ---
 
 ### 🛠️ Skills & Tools
