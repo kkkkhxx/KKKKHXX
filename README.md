@@ -3,7 +3,7 @@
 
 🎨 A passionate Front-End Developer and Designer who loves crafting user-friendly interfaces and scalable web applications.
 
-
+---
 ## 🛠️ Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
-
+---
 
 ## 📊 Language Stats
 
