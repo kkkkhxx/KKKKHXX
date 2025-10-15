@@ -22,6 +22,7 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
+
 ---
 
 ## 📊 Language Stats
