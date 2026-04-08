@@ -24,12 +24,6 @@
 
 ---
 
-## 📊 Language Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkhxx&layout=pie&theme=default)
-
----
-
 ## 📫 Get in Touch
 
 - 📧 Email: tanyaratclub@gmail.com
